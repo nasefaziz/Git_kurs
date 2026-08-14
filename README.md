@@ -1,2 +1,2 @@
 # Git_kurs
-for school
+##for school
